@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chanwoong Jeong.</h1>
 <h3 align="center">A passionate Data Scientist from Republic of Korea</h3>
 
-- 🌱 I’m currently learning **AI, ML, DL**
+- 🌱 I’m currently learning **ML, DL, Computer Vision**
 - 👀 I’m interested in **Data Science**
 - 📫 How to reach me **jcw7468@naver.com**
 
