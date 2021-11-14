@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Scientist from Republic of Korea</h3>
 
 - 🌱 I’m currently learning **ML, DL, Computer Vision**
-- 👀 I’m interested in **Data Science**
+- 👀 I’m interested in **Data Science, Machine Learning**
 - 📫 How to reach me **jcw7468@naver.com**
 
 <h3 align="left">Connect with me:</h3>
