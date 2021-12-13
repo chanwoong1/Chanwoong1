@@ -10,6 +10,8 @@
 <a href="https://instagram.com/chanwoong1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chanwoong1" height="30" width="40" /></a>
 </p>
 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
