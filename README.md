@@ -19,6 +19,9 @@
   <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> </p>
 
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jcw7468)](https://solved.ac/jcw7468)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=jcw7468&theme=warm)
+
 
 <!---
 Chanwoong1/Chanwoong1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
