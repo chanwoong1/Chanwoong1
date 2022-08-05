@@ -19,11 +19,14 @@
   <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
   <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> </p>
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Chanwoong1)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jcw7468)](https://solved.ac/jcw7468)
+[![jcw7468's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=jcw7468)](https://solved.ac/profile/jcw7468)
+
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=jcw7468&theme=warm)
 
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl5adzn7q001109l6fubmgkyw/stats?cursusId=21&coalitionId=85" alt="chanwjeo's 42 stats" /></a>
+
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl5adzn7q001109l6fubmgkyw/stats?cursusId=9&coalitionId=piscine" alt="chanwjeo's 42 stats" /></a>
 
 <!---
