@@ -36,10 +36,6 @@
 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=jcw7468&theme=warm)
 
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl5adzn7q001109l6fubmgkyw/stats?cursusId=21&coalitionId=85" alt="chanwjeo's 42 stats" /></a>
-
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl5adzn7q001109l6fubmgkyw/stats?cursusId=9&coalitionId=piscine" alt="chanwjeo's 42 stats" /></a>
-
 <!---
 Chanwoong1/Chanwoong1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
