@@ -30,6 +30,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y2IN&layout=compact">
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Chanwoong1)](https://github.com/anuraghazra/github-readme-stats)
 
 [![jcw7468's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=jcw7468)](https://solved.ac/profile/jcw7468)
