@@ -32,7 +32,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chanwoong1&layout=compact&exclude_repo=Project,Study,medici,recommendation-system-study">
 
-[![chanwoong1's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chanwoong1)](https://github.com/anuraghazra/github-readme-stats)
+[![chanwoong1's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chanwoong1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![chanwoong1's github stats](https://github-readme-stats.vercel.app/api?username=Chanwoong1)](https://github.com/anuraghazra/github-readme-stats)
 
