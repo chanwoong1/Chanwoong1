@@ -30,7 +30,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chanwoong1&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chanwoong1&layout=compact&exclude_repo=Project,Study,medici,recommendation-system-study">
 
 [![chanwoong1's github stats](https://github-readme-stats.vercel.app/api?username=Chanwoong1)](https://github.com/anuraghazra/github-readme-stats)
 
