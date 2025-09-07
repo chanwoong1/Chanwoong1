@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chanwoong Jeong.</h1>
 
-- [BLOG](https://woongtech.tistory.com)
+- [BLOG](https://blog.chanwoong.dev)
 - 🌱 I’m currently learning **ML, Frontend Development**
 - 👀 I’m interested in **Data Science, Machine Learning, Frontend Development**
 - 📫 How to reach me **jcw7468@naver.com**
