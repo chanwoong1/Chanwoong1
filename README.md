@@ -28,7 +28,6 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chanwoong1&layout=compact&exclude_repo=Project,Study,medici,recommendation-system-study">
 
 <!---
 Chanwoong1/Chanwoong1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
