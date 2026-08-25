@@ -30,14 +30,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chanwoong1&layout=compact&exclude_repo=Project,Study,medici,recommendation-system-study">
 
-[![chanwoong1's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chanwoong1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![chanwoong1's github stats](https://github-readme-stats.vercel.app/api?username=Chanwoong1)](https://github.com/anuraghazra/github-readme-stats)
-
-[![jcw7468's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=jcw7468)](https://solved.ac/profile/jcw7468)
-
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=jcw7468&theme=warm)
-
 <!---
 Chanwoong1/Chanwoong1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
